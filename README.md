@@ -1,5 +1,4 @@
-# Bak_Pisir-master
-**# Bak_Pisir 
+# Bak_Pisir 
 Bak Pişir projesi kullanıcılar için rahat ve anlaşılır bir arayüze sahip. Kullanıcılar dilerse bir hesap oluşturup kendi tariflerini diğer kullanıcılarla paylaşabilirler, günceleyebilir ve silebilirler.
 Yemekler kategoriler şeklinde filtrelenip kullanıcılara sunulmuştur. Beraberinde admin için de bir arayüz hazırlanmış olup sistem takibi admine sunulmuştur.
 
@@ -70,4 +69,4 @@ Yemekler kategoriler şeklinde filtrelenip kullanıcılara sunulmuştur. Beraber
 
 ![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/d89785a9-5846-4cfc-8fa6-78e1af7b8f4c)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/2f3c7d8f-97ed-4a7f-913b-3ca818c60846)**
+![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/2f3c7d8f-97ed-4a7f-913b-3ca818c60846)
