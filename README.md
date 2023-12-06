@@ -11,50 +11,49 @@ Yemekler kategoriler şeklinde filtrelenip kullanıcılara sunulmuştur. Beraber
 * Jquery
 
 # KULLANICI ARAYÜZÜ
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/68f5bbea-32bd-451a-97c7-c38996db803a)
+![1](https://github.com/melikeay45/Bak_Pisir/assets/75757682/821c95e9-0f10-4979-bfe4-0296645fbc9d)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/6cb1f6b2-bde5-4551-bf1d-f0886d3ea7e7)
+![2](https://github.com/melikeay45/Bak_Pisir/assets/75757682/9892f2e1-14f3-4f1e-8f2c-830eef997b5a)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/3bf762dc-8aa8-4298-afae-d57bd3fdb4d8)
+![3](https://github.com/melikeay45/Bak_Pisir/assets/75757682/7e04f19f-3d15-4c3c-8a3e-b3c3483557cc)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/a9a4ee30-3f52-4193-9f54-a6b6b9e269ff)
+![9](https://github.com/melikeay45/Bak_Pisir/assets/75757682/064defba-d4e1-45ab-ad94-4e844af1152e)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/3402c3a9-6fde-4b03-b4c7-31451ea7fd0c)
+![8](https://github.com/melikeay45/Bak_Pisir/assets/75757682/d8fccb8a-f0dc-41f6-b7d0-35acec8cf26c)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/fd75db28-0bc8-4f7a-9604-03f2dae454b1)
+![7](https://github.com/melikeay45/Bak_Pisir/assets/75757682/e5d13185-718d-42ae-81d3-2a50c36f26dc)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/1e602192-d886-459b-b25b-9b9e24d8a38c)
+![6](https://github.com/melikeay45/Bak_Pisir/assets/75757682/d07c5a0e-8a68-4940-9a7e-7735630b7b50)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/28c63818-36b0-4a5d-bf57-5e227c3347d8)
+![5](https://github.com/melikeay45/Bak_Pisir/assets/75757682/4902716d-3084-44cb-adb1-a99c6ced69a5)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/df0985e3-15e2-4bd1-a749-d204d1b3cc3c)
+![4](https://github.com/melikeay45/Bak_Pisir/assets/75757682/b7564b12-7418-424e-971e-d4597da88abc)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/7e4fc9a8-b7ed-4401-977b-691f2a095306)
+![11](https://github.com/melikeay45/Bak_Pisir/assets/75757682/d8de5412-95e6-403d-88a5-056f10fc5701)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/5a58305c-f397-4868-ac3e-d4d250e74c35)
+![10](https://github.com/melikeay45/Bak_Pisir/assets/75757682/abada6a0-2fd5-4f51-a3c1-62383410e4d7)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/1090e0eb-c296-46f2-bfbd-f99a563020c6)
+![19](https://github.com/melikeay45/Bak_Pisir/assets/75757682/1b9f69d1-e3e5-432f-9d22-944966ae847f)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/505b85d7-c1bf-4481-8be9-f892354f73a6)
+![18](https://github.com/melikeay45/Bak_Pisir/assets/75757682/27c7da18-304b-468f-9cb3-80826f5eacc9)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/49bd6389-59e0-4dbc-af17-76564785de78)
+![17](https://github.com/melikeay45/Bak_Pisir/assets/75757682/aecfc286-d551-4a94-aa40-3ccfcfcfe56e)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/bdb07752-2579-4c02-b658-87b5a64216e9)
+![16](https://github.com/melikeay45/Bak_Pisir/assets/75757682/949ee8ed-1066-443e-ac89-d9fc9b036e02)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/f12d19bf-17ac-433c-b66f-092772a56632)
+![15](https://github.com/melikeay45/Bak_Pisir/assets/75757682/82d3491e-4411-4775-a700-be876c28f125)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/143882ef-b268-4e30-a82d-8624a63ef3ab)
+![14](https://github.com/melikeay45/Bak_Pisir/assets/75757682/5559747e-c294-411c-ae9f-c1ca19c6a33c)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/c26389b9-8808-4c95-81f2-7a2b28900f44)
+![13](https://github.com/melikeay45/Bak_Pisir/assets/75757682/f78ba34b-b260-4013-bcf8-8b2977be3b60)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/68deed64-6bce-48d7-8684-adffe434df4e)
+![12](https://github.com/melikeay45/Bak_Pisir/assets/75757682/8c732d1b-28c9-41ce-ae40-7d1cecbe7b65)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/e06847ac-91f4-4344-af44-9807368bcddd)
+![22](https://github.com/melikeay45/Bak_Pisir/assets/75757682/f2e6228f-7c1a-44f9-ad94-ce8df269ff0b)
 
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/42d17edc-8e96-4c28-a8c6-6b6f7cd8c4da)
+![21](https://github.com/melikeay45/Bak_Pisir/assets/75757682/cb5f8eb5-ed09-42d0-89b0-47bc0a52f215)
 
-
-![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/42382424-fb02-45c4-ac47-0c51bd830882)
+![20](https://github.com/melikeay45/Bak_Pisir/assets/75757682/50a4fc54-706a-4b06-968f-ce3b1df5d588)
 
 # ADMİN ARAYÜZÜ
 ![image](https://github.com/drybozan/Bak_Pisir/assets/86890722/3eb40a0c-5798-4b8a-a047-685734330bfd)
